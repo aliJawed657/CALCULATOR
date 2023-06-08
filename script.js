@@ -11,7 +11,7 @@ function calculate(){
         alert = "invalid"
     }
 }
- function clear(){
+ function clearAll(){
     output.value = "";
 }
 
